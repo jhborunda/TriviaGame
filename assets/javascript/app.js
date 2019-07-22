@@ -10,7 +10,7 @@ $(document).ready(function(){
    var unanswered=0;
 
    //Questions
-    var question1 = "The NCAA Football Bowl Subdivision, Divison 1 consist of how many conferences?"
+    var question1 = ["The NCAA Football Bowl Subdivision, Divison 1 consist of how many conferences?", "One of the Universities below is not part of the Big 12; which one is it?", "Which Universtiy below has been to the most Bowl games?", "Which Univeristy below has won the most overlal conference championships?", "The Ohio State/Michigabn rivalary startred in 1987 when Michigan defeated The Buckeyes, 34-0, which University has the most wins in the series?", "The Red River Rivalary first played in 1900, and was first won by The University of Texas, which University hgas the nost wins in rthe series?", "What is the Texas Tech's Mascot's Name?", "For which of the following Universites did Von Miller play for?"]
     var answer = ["10"];
     var firstPick=["8"];
     var secondPick=["10"];
